@@ -3,4 +3,6 @@ This repository contains the lab exercises and projects completed for [Machine L
 
 ## Projects
 Here are the projects listed for convenience:
-1. 
+1. [Optimizing an ML Pipeline in Azure](https://github.com/PeacePeters/Optimizing-a-ML-Pipeline-in-AzureML)
+2. [Operationalizing Machine Learning](https://github.com/PeacePeters/Operationalizing-Machine-Learning-using-AzureML)
+3. [Capstone - Heart Failure Prediction](https://github.com/PeacePeters/Heart-Failure-Prediction-using-AzureML)
